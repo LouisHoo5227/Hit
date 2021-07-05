@@ -14,7 +14,3 @@ sdf
 sdfsd
 
 sdfsdfsdfsd
-
-sdfsd
-sgmhjgh
-sdfds
