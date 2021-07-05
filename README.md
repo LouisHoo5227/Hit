@@ -18,5 +18,3 @@ sdfsdfsdfsd
 sdfsd
 sgmhjgh
 sdfds
-
-gygyg
