@@ -22,7 +22,3 @@ jnbuh
 sdf
 
 sdfsd
-
-sdfsdfsdfsd
-df
-dfsd
