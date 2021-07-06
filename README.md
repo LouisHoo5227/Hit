@@ -4,11 +4,13 @@ dfsdf
 
 **Bold**
 
-*italic*
+_italic_
 
 # This is an h1 tag
+
 ## This is an h2 tag
-###### This is an h6 
+
+###### This is an h6
 
 abbabcba
 av
@@ -22,3 +24,4 @@ sdf
 sdfsd
 
 sdfsdfsdfsd
+df
